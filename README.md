@@ -1,7 +1,6 @@
 ### 👋 Hi there
 
-I'm an engineer working on [Continuous Profiler](https://docs.datadoghq.com/tracing/profiler/) at [@Datadog](http://github.com/datadog).  
-Previously: security [@monzo](http://github.com/monzo), CloudGuru Profiler [@amazon](https://github.com/amzn).
+I'm an engineer working on [Continuous Profiler](https://docs.datadoghq.com/tracing/profiler/) at [@Datadog](http://github.com/datadog). Previously: security [@monzo](http://github.com/monzo), CloudGuru Profiler [@amazon](https://github.com/amzn).
 
 I like playing with generative art, here are some things I've made:
 
