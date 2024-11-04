@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
-Currently working on [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/) at [Datadog](http://github.com/datadog). Previously security at [Monzo](http://github.com/monzo), CloudGuru Profiler at [Amazon](https://github.com/amzn).  
-Public repos here are topy projects, here are some things I've made:
+Currently working on [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/) at [Datadog](http://github.com/datadog). Previously: security at [Monzo](http://github.com/monzo), CloudGuru Profiler at [Amazon](https://github.com/amzn).
+Public repos here are toy projects, here are some things I've made:
 
 | [<img width="256" src="img/many-worlds.png" title="WebGL de Jong attractor made reactive to sound">][many-worlds] | [<img width="256" src="img/entangled.png" title="Simple reactive audio visualisation">][entangled] | [<img width="256" src="img/penrose-triangle.png" title="Glitchy penrose triangle rendered with three.js">][penrose-triangle] |
 |:---:|:---:|:---:|
