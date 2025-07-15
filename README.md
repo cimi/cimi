@@ -6,9 +6,9 @@ Public repos here are toy projects, here are some things I've made:
 | [<img width="256" src="img/color-automata.png" title="Colourful WASM cellular automaton">][color-automata] | [<img width="256" src="img/penrose-tiling.png" title="Penrose titling generator">][penrose-tiling] | [<img width="256" src="img/256-colors.png" title="Toy shader">][256-colors] |
 
 
-I'm not active on social media and don't usually reply to recruiter emails.
+:sparkles: :heart: :sparkles: I'm not active on social media and don't usually reply to recruiter emails. :sparkles: :heart: :sparkles:
 
-:sparkles: :heart: :sparkles:
+
 
 
 [color-automata]: https://cimi.io/color-automata
